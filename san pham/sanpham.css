@@ -1,0 +1,9 @@
+.card-body img{
+    max-width: 200px;
+}
+.row-1{
+    
+    max-height: 100%;
+    max-width: 100%;
+    padding: 0px 0px 0px 300px;
+}
